@@ -1,5 +1,7 @@
 # Authorization Server (Draft)
 
+[![License](https://img.shields.io/badge/license-BSD--3--Clause--Clear-brightgreen)](LICENSE)
+
 The authorization server gives out upload tokens to health authorities / doctors / ...
 
 They can then give these tokens to an infected person to upload his/her contact numbers.
